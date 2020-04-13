@@ -2,4 +2,3 @@ gitの練習をしていきます。
 蟹座！
 .git add
 .git commit
-.git remove
